@@ -81,13 +81,13 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/net/nowak/sparkjava/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="457" selection-end="469" vertical-scroll-proportion="0.61202186">
+            <state line="23" column="46" selection-start="534" selection-end="534" vertical-scroll-proportion="0.6557377">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#647#836#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#838#1082#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#620#809#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#811#1055#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -594,10 +594,10 @@
         <state line="14" column="35" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#647#836#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#838#1082#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#620#809#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#811#1055#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -634,13 +634,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/net/nowak/sparkjava/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="457" selection-end="469" vertical-scroll-proportion="0.61202186">
+        <state line="23" column="46" selection-start="534" selection-end="534" vertical-scroll-proportion="0.6557377">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#647#836#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#838#1082#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#620#809#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#811#1055#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
           </folding>
         </state>
       </provider>

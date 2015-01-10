@@ -22,7 +22,6 @@ public class Main {
     public static void main(String[] args) {
         get("/hello/:name", (req, res) -> {
                 log.info(req.params(":name"));
-                halt(500);
                 return "Siema " + req.params(":name");
         });
 
