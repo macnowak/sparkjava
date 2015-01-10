@@ -5,6 +5,7 @@ import spark.*;
 import java.util.logging.Logger;
 
 import static spark.Spark.get;
+import static spark.Spark.halt;
 
 /**
  * Created with IntelliJ IDEA.
@@ -19,6 +20,7 @@ public class Main {
     public static void main(String[] args) {
         get("/hello/:name", (req, res) -> {
                 log.info(req.params(":name"));
+                halt(500);
                 return "Hello World" + req.params(":name");
         });
 
