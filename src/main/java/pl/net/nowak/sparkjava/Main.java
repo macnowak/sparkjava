@@ -23,7 +23,7 @@ public class Main {
         get("/hello/:name", (req, res) -> {
                 log.info(req.params(":name"));
                 halt(500);
-                return "Hello World" + req.params(":name");
+                return "Siema " + req.params(":name");
         });
 
 
