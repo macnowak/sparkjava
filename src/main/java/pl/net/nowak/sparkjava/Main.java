@@ -1,11 +1,13 @@
 package pl.net.nowak.sparkjava;
 
+import com.google.gson.Gson;
 import spark.*;
 
 import java.util.logging.Logger;
 
 import static spark.Spark.get;
 import static spark.Spark.halt;
+import static spark.Spark.post;
 
 /**
  * Created with IntelliJ IDEA.
@@ -36,6 +38,12 @@ public class Main {
                         return String.valueOf(((ModelAndView)o).getModel());
                     }
                 });
+
+
+        new UserService();
+
+
+
 
     }
 
